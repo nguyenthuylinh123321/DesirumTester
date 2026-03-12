@@ -3,3 +3,7 @@
 //
 
 #include "hello.h"
+
+void Hello::sayHello() {
+    std::cout << "Hello, World!" << std::endl;
+}
