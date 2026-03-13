@@ -1,3 +1,4 @@
 # DesirumTester
 
-Đây là test game project
+Phương pháp trade tốt nhất là kiên nhẫn
+
